@@ -13,6 +13,9 @@ Technologies Used
 Java
 VS Code
 Git & GitHub
+
+project repository url: 
+https://github.com/Naaz1401/number-guessing-game.git
 How to Run
 javac project1.java
 
